@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Swapnil/Android Sample Project/New folder/ExoPlayerDemo-master/app/src/main/res/drawable/bg_retry_bg.xml" value="0.201" />
+        <entry key="..\:/Swapnil/Android Sample Project/New folder/ExoPlayerDemo-master/app/src/main/res/drawable/bg_speed_spinner_exo.xml" value="0.201" />
+        <entry key="..\:/Swapnil/Android Sample Project/New folder/ExoPlayerDemo-master/app/src/main/res/drawable/hd.xml" value="0.201" />
+        <entry key="..\:/Swapnil/Android Sample Project/New folder/ExoPlayerDemo-master/app/src/main/res/drawable/ic_ffwd.xml" value="0.201" />
+        <entry key="..\:/Swapnil/Android Sample Project/New folder/ExoPlayerDemo-master/app/src/main/res/drawable/ic_forword.xml" value="0.201" />
+        <entry key="..\:/Swapnil/Android Sample Project/New folder/ExoPlayerDemo-master/app/src/main/res/drawable/ic_full.xml" value="0.201" />
+        <entry key="..\:/Swapnil/Android Sample Project/New folder/ExoPlayerDemo-master/app/src/main/res/drawable/ic_fullscreen_close.xml" value="0.201" />
+        <entry key="..\:/Swapnil/Android Sample Project/New folder/ExoPlayerDemo-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.201" />
+        <entry key="..\:/Swapnil/Android Sample Project/New folder/ExoPlayerDemo-master/app/src/main/res/drawable/ic_play_circle.xml" value="0.201" />
+        <entry key="..\:/Swapnil/Android Sample Project/New folder/ExoPlayerDemo-master/app/src/main/res/drawable/ic_settings.xml" value="0.201" />
+        <entry key="..\:/Swapnil/Android Sample Project/New folder/ExoPlayerDemo-master/app/src/main/res/drawable/ic_volume_off.xml" value="0.201" />
+        <entry key="..\:/Swapnil/Android Sample Project/New folder/ExoPlayerDemo-master/app/src/main/res/layout/activity_main.xml" value="0.35052083333333334" />
+        <entry key="..\:/Swapnil/Android Sample Project/New folder/ExoPlayerDemo-master/app/src/main/res/layout/custom_controller_exoplayer.xml" value="0.35052083333333334" />
+        <entry key="..\:/Swapnil/Android Sample Project/New folder/ExoPlayerDemo-master/app/src/main/res/layout/track_selection_dialog.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/info/.gradle/caches/transforms-3/f497a9a62bc8ea9f23c8d670a2be43c4/transformed/jetified-exoplayer-ui-2.18.1/res/layout/exo_track_selection_dialog.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1585144927536232" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
